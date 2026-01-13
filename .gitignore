@@ -2,6 +2,7 @@
 venv/
 .venv/
 env/
+venv
 
 # Python caches
 __pycache__/
@@ -10,3 +11,6 @@ __pycache__/
 # Archivos de sistema
 .DS_Store
 Thumbs.db
+
+#Enviroments keys and credentials
+.env

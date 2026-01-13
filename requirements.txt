@@ -2,3 +2,6 @@ openai
 speechrecognition
 pyaudio
 pyttsx3
+gTTS
+vosk
+whisper
